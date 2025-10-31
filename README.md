@@ -13,7 +13,6 @@ Este script en Python utiliza la API de Graphhopper Directions para calcular rut
 
 - Python 3
 - Librería `requests`
-- Clave API de Graphhopper: `6ccd5e31-6412-4801-a449-446633bcba43`
 
 ## Ejecución
 
